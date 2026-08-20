@@ -9,8 +9,6 @@
     "jsxImportSource": "@solidjs/web",
     "lib": ["ESNext", "DOM", "DOM.Iterable"],
     "strict": false,
-    "declaration": true,
-    "declarationDir": "dist/types",
     "noUnusedLocals": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
